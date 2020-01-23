@@ -1,0 +1,19 @@
+* {font-family: 'Nanum Pen Script', cursive;}
+footer {background-color: #555; color: white; padding: 15px;}
+a, p, label, .font-default {font-size: 1.7rem !important;}
+.cursor-pointer {cursor: pointer;}
+.txt-vertical {resize: vertical;}
+.txt-horizontal {resize: horizontal;}
+.txt-none {resize: none;}
+.txt-active {background-color: #ec971f !important;}
+.padding-zero {padding: 0 !important;}
+.txt-body > .row, .button-body {margin: 0 !important;}
+.txt-box {
+	min-height: 20px;
+    margin: 10px 0;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
